@@ -2,21 +2,25 @@
   {
     "package": "biride",
     "url": "https://github.com/CoryMcCartan/birdie",
-  },
-  {
-    "package": "nbhdmodel",
-    "url": "https://github.com/CoryMcCartan/nbhdmodel",
+    "branch" : "*release"
   },
   {
     "package": "easycensus",
     "url": "https://github.com/CoryMcCartan/easycensus",
+    "branch" : "*release"
   },
   {
     "package": "adjustr",
     "url": "https://github.com/CoryMcCartan/adjustr",
+    "branch" : "*release"
   },
   {
     "package": "wacolors",
     "url": "https://github.com/CoryMcCartan/wacolors",
+    "branch" : "*release"
+  },
+  {
+    "package": "nbhdmodel",
+    "url": "https://github.com/CoryMcCartan/nbhdmodel"
   }
 ]
